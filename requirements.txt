@@ -1,0 +1,4 @@
+#you need to install on command prompt in your pc
+before running the code
+
+ mysql-connector-python
